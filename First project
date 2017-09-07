@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+      <style> h1 {color: green} p {color: white} body {background-color: black} </style>
+    </head>
+    <body>
+     
+        <h1>The coolest creature: Snake</h1>
+        
+        <p>The <em>snake</em> is awesome because  <strong>strong </strong>  and is very flexible. Snakes are super cool and they can be all different colours. Some snakes are poisinous and deadly such as the <em>Viper</em>. There are also sae and non-poisinous snakes such as the <em>Corn Snake</em>.</p>
+      <img src="https://www.kasandbox.org/programming-images/animals/snake_green-tree-boa.png" height="200">       
+    </body>
+</html>
