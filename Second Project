@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style> h1 {color: red}
+            p {color: green}
+          body{background-color:black}
+          #australia {color:orange}
+              
+          </style>
+       
+    </head>
+    <body>
+    
+        <h1>When I am Older I'd like to travel to Australia</h1>
+       
+        <img src="https://www.kasandbox.org/programming-images/landscapes/clouds-from-plane.png" height="200" width="250" >
+        <p id="australia">I am interested in Australia because the people who live there have cool accents and the animal life is way different and more interesting then the animals we have here in Canada. When i found out AYJ offered a trip for students to go to Australia, I got excited. I remember later that day I asked my mom if I were allowed to go to Australia. She unfortunately she said no. :( </p> 
+    </body>
+</html>
