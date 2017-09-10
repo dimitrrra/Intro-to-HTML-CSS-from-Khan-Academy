@@ -1,0 +1,130 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style> h1 {color: blue;}
+            h2 {color:orange;}
+            th {color:red;}
+            p {color:purple;}
+            tbody {color:green;}
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>2 ways to make homemade PlayDoh :o)</h1>
+       
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="recipe1">Recipe #1</a></li> <li><a href="recipe2">Recipe #2</a></li> 
+            <li><a href="recipe3">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <td>Salt  <br>
+            Flour <br>
+            Warm Water </td>
+            
+            <td> 
+            
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Mix together 1 cup of flour and 1/4 of a cup of salt. <br>
+        <br>
+       <strong> Step 2: </strong> Mix together ½ cup of warm water with a few drops of food coloring.
+Slowly pour the water into the flour mixture, stirring as you pour. <br>
+<br>
+ <strong> Step 3: </strong> Stir until combined, then knead with your hands until the flour is completely absorbed.
+
+    
+</p><h2 id="recipe2">Recipe #2</h2>
+        
+
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <td>Vegetable oil  <br>
+            Flour <br>
+            Cream of Tatar 
+            Salt  <br>
+            Boiling Water <br>
+            Glycerine </td>
+            
+    
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Mix 2 cups of flour, 1/2 a cup of salt, 2 tablespoons of cream of tartar and 2 tablespoons of oil in a bowl <br>
+        <br>
+       <strong> Step 2: </strong> Add food colouring to the boiling water then into the the powdered ingredients
+ <br>
+<br>
+ <strong> Step 3: 
+</strong> Stir until it becomes a sticky/dough
+<br>
+  <br>
+
+<strong>Step 4:</strong> Add a few drops of glycerine  <br>
+        <br>
+       <strong> Step 5: </strong> Let it cool down then take it out of the bowl and knead it for a couple of minutes until it is no longer sticky. * This is important, so keep at it until it’s the perfect consistency!*
+ <br>
+<br>
+ <strong> Step 6: </strong> *If it is still sticky after kneading it for a few minutes, add a pinch of flour and keep kneading*
+</p>
+
+<h2 id="recipe3">Recipe #3</h2>
+        
+
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            <td>1/2 a cup of cornstarch<br>
+            1 cup of baking soda <br>
+            3/4 of a cup of water </td>
+            
+            <td> 
+            
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> In a pot with no heat, add the cornstarch, baking soda and water then stir.
+
+ <br>
+        <br>
+       <strong> Step 2: </strong>  Turn on your stove to medium heat. <br>
+<br>
+ <strong> Step 3: </strong> Continue stirring the mixture. It will start to bubble slightly and that’s when it happens really fast. It will begin to turn solid. Once a ball starts to form (4-5 minutes) take your pot off the heat.
+<br>
+ <strong> Step 3: </strong> Place your dough onto a piece of parchment paper. Let it cool, it will be very hot. To speed the cooling process, flip it over and knead it a bit as it’s cooling down. Be careful, it’s HOT. Once it cools down completly, you may play with it. 
+</p>
+    <p> *Note: EVERY RECIPE REQUIRES THE DOUGH TO BE STORED IN AN AIR TIGHT CONTAINER* </p>    
+    <p><em>Recipe #1 Source: <a href="https://www.diynatural.com/homemade-playdough/">Diy all natural Play Doh </a></em></p>
+    <p><em>Recipe #2 Source: <a href="http://theimaginationtree.com/2012/04/best-ever-no-cook-play-dough-recipe.html">No bake Play Doh </a></em></p>
+    <p><em>Recipe #3 Source: <a href="http://www.makeandtakes.com/3-ingredient-play-dough"> 3 ingredient Play Doh </a></em></p>
+    </body>
+</html>
