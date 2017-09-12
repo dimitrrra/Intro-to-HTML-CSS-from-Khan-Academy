@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+    h1 {color: purple;
+        font-family:monoscape;
+    }  h3 {color:lime;
+        font-family:monoscape;
+    }
+    h5 {color: pink; font-family:monoscape;}
+    li {color:skyblue; font-family:monoscape;}
+    h4 {color:Turquoise; font-family:monoscape;}
+        body {background-color:grey;}
+        
+    </style>
+    
+    
+    <body>
+        
+        <h1>Dimi's Blog/Diary!</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li id="first">First post</li>
+            <li id="second">Second post</li>
+        </ul>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png" height="150" width="500">
+        <h3><a href="#first">First post</a></h3>
+        <h4><strong>May 7 2016</strong></h4>
+        <h5>
+        Today was quite exciting. I went to school thinking we were going to do a ton of work. Guess what? We didn't! There was a surprise fun day where we got to play games and eat popcorn. It was great! </h5>
+        
+        <h5>but then... it started to rain! So it all got cancelled and we had to go inside :(. There was another surprise though! My teacher turned on a movie! It was awesome because it was my favourite movie (Happy Feet)! I was so happy. Anyways, I hope you enjoyed my first blog. There will be more to come. I'll try my best to stay on top of writing them.<br>
+            
+        </h5>
+
+        <h3> Second post</h3>
+        <h4><strong>September 11 2017</strong></h4>
+        <h5> I'm not very good at this blog thing. It's been more then a <strong>YEAR</strong> since I've posted! I'm so sorry. Anyways today was quite interesting. First period, I had PE which is normally a bad class but it was actually kind of fun! second period I had science and I normally hate science but my science teacher is super nice and a good teacher so thats good. Third period I had business. It just so happens I am working on an assignement for that class right now! I'm doing coading which is sort of fun but can be boring lol. Last period I had french class and we had a substitute so we watched the movie TinTin in french. That was fun. Then after school I had field hockey tryouts.GEEZ its hard. We had to do a lot of running and I don't have good stamina so I didn't do so well. Then literally I had jiu-jitsu right after that. Oh my gosh. My day was packed! Anyways that was my interesting day. Oh and before I'm done I'd just like to remember everyone who's lost their lives due to the 911 which happened today 16 years ago. Bye!
+        </h5> 
+    </body>
+</html>
